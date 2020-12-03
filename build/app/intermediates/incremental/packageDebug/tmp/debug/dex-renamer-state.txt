@@ -1,0 +1,4 @@
+#Thu Dec 03 15:08:04 IST 2020
+base.0=/Users/shivanshsingh/Desktop/BackSlashFlutter/userlocation/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
